@@ -1,6 +1,4 @@
 # OK_Coin_Trainning
-This is the OK Coin Training 
-
 
 
 集训课程内容主要包括：
